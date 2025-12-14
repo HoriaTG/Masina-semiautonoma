@@ -1,4 +1,4 @@
-# Masina-semiautonoma
+# Semi-autonomous car
 Proiect de licenta, Facultatea de Matematica si Informatica, CTI
 
 ![documentatie licenta](https://github.com/user-attachments/assets/629061a4-d30e-4030-865c-7c0606a545ff)
