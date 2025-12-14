@@ -1,9 +1,8 @@
-# Semi-autonomous car
+# Semi-Autonomous Vehicle with Driving Assistant
 
+**Bachelor’s Degree Project – Faculty of Mathematics and Computer Science**
 
-## Bachelor’s Degree Project – Faculty of Mathematics and Computer Science**
-
-**Project Overview**
+## Project Overview
 
 This repository contains my Bachelor’s degree project developed at the Faculty of Mathematics and Computer Science. The project represents a semi-autonomous vehicle system composed of four fully integrated components, all designed and built by me:
 
