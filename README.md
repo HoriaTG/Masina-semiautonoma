@@ -49,11 +49,9 @@ The Raspberry Pi 5 is powered via USB Type-C from an external power bank. The sa
 
 **Power Supply**
 
-Servo motor: powered by 6 rechargeable AA batteries
-
-Each L298N motor driver: powered by 4 AA batteries
-
-Raspberry Pi & Arduino Mega: powered by an external battery
+* Servo motor: powered by 6 rechargeable AA batteries
+* Each L298N motor driver: powered by 4 AA batteries
+* Raspberry Pi & Arduino Mega: powered by an external battery
 
 ## Remote Controller
 
@@ -61,10 +59,9 @@ The remote controller is built around an Arduino Uno, powered by 4 AA batteries 
 
 **Input Controls**
 
-Two joysticks:
-
-* One for left–right steering
-* One for forward–backward movement
+* Two joysticks:
+ * One for left–right steering
+ * One for forward–backward movement
 
 Joystick commands are transmitted wirelessly to the vehicle using an NRF24L01 radio module.
 
