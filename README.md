@@ -6,13 +6,10 @@
 
 This repository contains my Bachelor’s degree project developed at the Faculty of Mathematics and Computer Science. The project represents a semi-autonomous vehicle system composed of four fully integrated components, all designed and built by me:
 
-The vehicle
-
-The remote controller
-
-The driving track
-
-Traffic signs
+* The vehicle
+* The remote controller
+* The driving track
+* Traffic signs
 
 The goal of the project is to demonstrate the integration of hardware, embedded systems, radio communication, and computer vision into a functional semi-autonomous driving assistant.
 
